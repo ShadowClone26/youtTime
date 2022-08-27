@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "yourTime",
+    "slug": "yourTime",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
